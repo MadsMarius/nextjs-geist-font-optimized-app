@@ -1,0 +1,31 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/node_modules_next_dist_1a6ee436._.js",
+      "static/chunks/node_modules_next_dist_client_components_not-found-error_c0237562.js",
+      "static/chunks/node_modules_f0e0f25d._.js",
+      "static/chunks/node_modules_next_dist_compiled_stream-http_index_4b0f5eaa.js",
+      "static/chunks/node_modules_next_dist_compiled_assert_assert_eb302145.js",
+      "static/chunks/node_modules_next_dist_compiled_crypto-browserify_index_07270ec0.js",
+      "static/chunks/node_modules_next_dist_compiled_22be0877._.js",
+      "static/chunks/node_modules_puppeteer-core_lib_esm_third_party_d58b189f._.js",
+      "static/chunks/node_modules_puppeteer-core_lib_esm_puppeteer_6f1f4ac2._.js",
+      "static/chunks/node_modules_esprima_dist_esprima_6d5f4cb9.js",
+      "static/chunks/node_modules_ast-types_7cc7501e._.js",
+      "static/chunks/node_modules_@tootallnate_quickjs-emscripten_dist_3e3c5f3d._.js",
+      "static/chunks/node_modules_js-yaml_fddeb3e9._.js",
+      "static/chunks/node_modules_typescript_lib_typescript_d01a7157.js",
+      "static/chunks/node_modules_axios_lib_99999129._.js",
+      "static/chunks/node_modules_736dce89._.js",
+      "static/chunks/src_1a91845c._.js",
+      "static/chunks/src_app_page_tsx_c0237562._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ]
+  }
+}
